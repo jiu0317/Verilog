@@ -1,1 +1,2 @@
-# network
+# Verilog
+Digital Logic Circuit
